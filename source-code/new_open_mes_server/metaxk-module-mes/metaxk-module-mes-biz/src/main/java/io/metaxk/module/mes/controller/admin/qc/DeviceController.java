@@ -34,7 +34,7 @@ import static io.metaxk.module.mes.enums.ErrorCodeConstants.INSPECT_WAY_NAME_EXI
 
 
 /**
- * @author 万界星空
+ * @author 万界星空测试
  * @time 2023/7/6 11:18
  */
 @Tag(name = "管理后台 - 检测器具")
